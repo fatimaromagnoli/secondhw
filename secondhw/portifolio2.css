@@ -1,0 +1,26 @@
+body{ background-color:lightgrey ;
+    position: relative;
+    width:960px;}
+
+h2 { position: relative;
+    width: 960px;
+background-color: #4aaa54;
+
+}
+section:{ position :relative;
+    width: 960px;
+
+
+}
+
+nav{ background-color: white;
+width: 960px;}
+
+form{
+    
+}
+
+
+.form-group:{ position:relative;
+width: 960px;
+ }
